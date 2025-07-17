@@ -101,9 +101,8 @@ func start
 ![alt text](pics/image3.png)
 ## 📹 Demo Vi
 
-🔗 [Watch on YouTube](https://your-youtube-demo-link.com)
+🔗 [Watch on YouTube](https://youtu.be/_YRcEgyzSrs)
 
-> *(Max 5 minutes – Explains architecture, trigger, metadata extraction, SQL insertion, and test run)*
 
 ---
 
@@ -117,6 +116,4 @@ func start
 
 ## 👨‍💻 Author
 
-**Shaoxian [Your Last Name]**  
-Student ID: [Optional]  
-Course: CST8917 – Serverless Application Development  
+**Shaoxian Duan
